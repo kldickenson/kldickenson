@@ -1,4 +1,4 @@
-![Karen L Dickenson, Frontend Developer, Drupal and WordPress](https://repository-images.githubusercontent.com/344245621/0269ae00-7c45-11eb-8751-b7fa3d28017a)
+[![Karen L Dickenson, Frontend Developer, Drupal and WordPress](./assets/KLD-background-1280x640.png)]
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=b30024)](https://www.linkedin.com/in/kldickenson/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=b30024)](https://twitter.com/kldickenson)
