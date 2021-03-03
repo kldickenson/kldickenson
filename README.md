@@ -1,6 +1,4 @@
-# Karen L. Dickenson
-
-## Frontend Developer - Taking Drupal and WordPress beyond the basics
+![Karen L Dickenson, Frontend Developer, Drupal and WordPress](https://repository-images.githubusercontent.com/344245621/0269ae00-7c45-11eb-8751-b7fa3d28017a)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=b30024)](https://www.linkedin.com/in/kldickenson/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=b30024)](https://twitter.com/kldickenson)
@@ -14,8 +12,8 @@
 
 ### My Open Source Contributions
 
--   [Protegé (accessibility audit and issue fixes)](https://github.com/drewclem/protege/issues/151)
--   [VirtualCoffee.io (CSS issue)](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/41)
+-   [Protegé (accessibility audit and fixes)](https://github.com/drewclem/protege/issues/151)
+-   [VirtualCoffee.io (CSS layout issue)](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/41)
 
 -   🌱 I’m currently learning how to take Drupal and WordPress headless with
     React, Gatsby, and Vue.js.
