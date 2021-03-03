@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=b30024)](https://twitter.com/kldickenson)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev&logoColor=white&color=b30024)](<https://[dev.to/eclecticcoding](https://dev.to/kldickenson)>)
 
-### Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
