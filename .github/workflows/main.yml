@@ -2,7 +2,7 @@
 name: Blog Posts
 
 on:
-  schedule: # Run workflow automatically
+	schedule: # Run workflow automatically
 	- cron: '0 * * * *' # Runs every hour (0 0 * * *) once a day
 
 jobs:
@@ -10,8 +10,8 @@ jobs:
 	name: Update this repo's README with latest blog posts
 	runs-on: ubuntu-latest
 	steps:
-  	- uses: actions/checkout@v2
-  	- uses: gautamkrishnar/blog-post-workflow@master
-    	with:
-      	feed_list: "https://dev.to/feed/kldickenson" #RSS feed to your blog
+	- uses: actions/checkout@v2
+	- uses: gautamkrishnar/blog-post-workflow@master
+		with:
+		feed_list: "https://dev.to/feed/kldickenson" #RSS feed to your blog
 
