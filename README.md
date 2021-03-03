@@ -1,4 +1,8 @@
-### Hi there 👋
+# Karen L. Dickenson
+
+## Frontend Developer
+
+## Taking Drupal and WordPress beyond the basics
 
 <!--
 **kldickenson/kldickenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-   😄 Pronouns: She/Her
+-   📫 [Reach me by email](mailto:kldinteractive@gmail.com)
