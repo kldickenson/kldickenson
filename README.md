@@ -4,18 +4,20 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=b30024)](https://twitter.com/kldickenson)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev&logoColor=white&color=b30024)](<https://[dev.to/eclecticcoding](https://dev.to/kldickenson)>)
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### My Open Source Contributions
 
 -   [Protegé (accessibility audit and fixes)](https://github.com/drewclem/protege/issues/151)
 -   [VirtualCoffee.io (CSS layout issue)](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/41)
 
--   🌱 I’m currently learning how to take Drupal and WordPress headless with
-    React, Gatsby, and Vue.js.
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+-   🌱 I’m currently learning to take Drupal and WordPress headless with React,
+    Gatsby, and Vue.js.
 -   😄 Pronouns: She/Her
 -   📫 [Reach me by email](mailto:kldinteractive@gmail.com)
 
