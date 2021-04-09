@@ -16,7 +16,7 @@
 - [Tackling Advent of Code 2020](https://dev.to/kldickenson/tackling-advent-of-code-202-4d8g)
 - [Another Step to Vanquishing Imposter Syndrome](https://dev.to/kldickenson/another-step-to-vanquishing-imposter-syndrome-4nk2)
 - [Exercism Teams - The support I needed](https://dev.to/kldickenson/exercise-teams-the-support-i-needed-3390)
-- [Drupal Recipes](https://dev.to/kldickenson/drupal-recipes-68f)
+- [Drupal Recipes - updated](https://dev.to/kldickenson/drupal-recipes-68f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
